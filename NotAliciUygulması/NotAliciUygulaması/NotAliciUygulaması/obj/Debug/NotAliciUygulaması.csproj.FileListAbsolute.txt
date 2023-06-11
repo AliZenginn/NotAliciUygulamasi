@@ -1,0 +1,14 @@
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\bin\Debug\NotAliciUygulaması.exe.config
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\bin\Debug\NotAliciUygulaması.exe
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\bin\Debug\NotAliciUygulaması.pdb
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.csproj.AssemblyReference.cache
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\MainWindow.baml
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\MainWindow.g.cs
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\App.g.cs
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması_MarkupCompile.cache
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.g.resources
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.Properties.Resources.resources
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.csproj.GenerateResource.cache
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.exe
+C:\Users\alize\OneDrive\Masaüstü\NotAliciUygulması\NotAliciUygulaması\NotAliciUygulaması\obj\Debug\NotAliciUygulaması.pdb
